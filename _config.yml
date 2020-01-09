@@ -1,12 +1,12 @@
 # Site settings
-title: Daniel Petterson - Explorer of Data
+title: Daniel Petterson
 description: 
  baseurl: "danielpetterson.github.io" # the subpath of your site, e.g. /blog
  url: "https://danielpetterson.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Daniel Petterson
-user_description: Test
+user_description: NULL
 user_title: Statistics Graduate / Piggyback Racing Champion
 email: dpet922@hotmail.com
 github_username:  danielpetterson
