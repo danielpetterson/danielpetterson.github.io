@@ -13,7 +13,7 @@ const CONFIG = {
     github: {
       display: true, // Display GitHub projects?
       header: 'Github Projects',
-      mode: 'automatic', // Mode can be: 'automatic' or 'manual'
+      mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'updated', // Sort projects by 'stars' or 'updated'
         limit: 8, // How many projects to display.
@@ -24,7 +24,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: [], // List of repository names to display. example: ['gitname/my-project1', 'gitname/my-project2']
+        projects: ['probGLSAlgorithm','generative-aRt-particles','DownQuiltDesigner'], // List of repository names to display. example: ['gitname/my-project1', 'gitname/my-project2']
       },
     },
     external: {
