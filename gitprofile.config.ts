@@ -42,7 +42,7 @@ const CONFIG = {
             'Research into tracking the migration patterns of vulnerable seabirds using data obtained from light-level loggers. This data was also used to determine the geographic and temporal distribution of artificial light events that pose a threat to these species.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://danielpetterson.github.io/proj/Estimating-Exposure-of-Vulnerable-Seabird-Populations-to-Offshore-Light-Pollution.pdf',
+          link: 'https://docnewzealand.shinyapps.io/seabird_ALAN/',
         },
         {
           title: 'Project Name',
