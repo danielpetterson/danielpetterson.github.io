@@ -24,7 +24,11 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['probGLSAlgorithm','generative-aRt-particles','DownQuiltDesigner'], // List of repository names to display. example: ['gitname/my-project1', 'gitname/my-project2']
+        projects: [
+          'danielpetterson/probGLSAlgorithm',
+          'danielpetterson/generative-aRt-particles',
+          'danielpetterson/DownQuiltDesigner'
+        ], // List of repository names to display. example: ['gitname/my-project1', 'gitname/my-project2']
       },
     },
     external: {
