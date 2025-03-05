@@ -81,6 +81,7 @@ const CONFIG = {
     website: '',
     phone: '',
     email: 'daniel-petterson@outlook.com',
+    orcid: '0000-0002-0158-172X',
   },
   resume: {
     fileUrl:

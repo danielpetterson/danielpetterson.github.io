@@ -368,6 +368,14 @@ const DetailsCard = ({ profile, loading, social, github }: Props) => {
                   link={`mailto:${social.email}`}
                 />
               )}
+              {social?.orcid && (
+                <ListItem
+                  icon={<FaGlobe />}
+                  title="ORCID:"
+                  value={social.orcid}
+                  link={`https://orcid.org/${social.orcid}`}
+                />
+              )}
             </Fragment>
           )}
         </div>
