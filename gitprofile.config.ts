@@ -45,12 +45,12 @@ const CONFIG = {
           link: 'https://docnewzealand.shinyapps.io/seabird_ALAN/',
         },
         {
-          title: 'Project Name',
+          title: 'Generative aRt',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'This app allows users to easily generate art using a particle physics simulation package and a variety of data visualisation options.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://danielpetterson.shinyapps.io/generative-art-particles/',
         },
       ],
     },
