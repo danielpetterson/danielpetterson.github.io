@@ -27,7 +27,8 @@ const CONFIG = {
         projects: [
           'danielpetterson/probGLSAlgorithm',
           'danielpetterson/generative-aRt-particles',
-          'danielpetterson/DownQuiltDesigner'
+          'danielpetterson/DownQuiltDesigner',
+          // 'danielpetterson/Seabird_Light_Overlap',
         ], // List of repository names to display. example: ['gitname/my-project1', 'gitname/my-project2']
       },
     },
@@ -36,12 +37,12 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Estimating Exposure of Vulnerable Seabird Populations to Offshore Light Pollution',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Research into tracking the migration patterns of vulnerable seabirds using data obtained from light-level loggers. This data was also used to determine the geographic and temporal distribution of artificial light events that pose a threat to these species.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://danielpetterson.github.io/src/proj/Estimating-Exposure-of-Vulnerable-Seabird-Populations-to-Offshore-Light-Pollution.pdf',
         },
         {
           title: 'Project Name',
