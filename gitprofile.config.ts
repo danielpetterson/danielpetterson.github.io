@@ -41,7 +41,7 @@ const CONFIG = {
           description:
             'Research into tracking the migration patterns of vulnerable seabirds using data obtained from light-level loggers. This data was also used to determine the geographic and temporal distribution of artificial light events that pose a threat to these species.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://www.datasqua.red/files/assets/bird-app.png',
           link: 'https://docnewzealand.shinyapps.io/seabird_ALAN/',
         },
         {
@@ -49,7 +49,7 @@ const CONFIG = {
           description:
             'This app allows users to easily generate art using a particle physics simulation package and a variety of data visualisation options.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://www.datasqua.red/files/assets/gen-art.png',
           link: 'https://danielpetterson.shinyapps.io/generative-art-particles/',
         },
       ],
