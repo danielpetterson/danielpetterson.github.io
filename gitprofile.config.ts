@@ -45,7 +45,7 @@ const CONFIG = {
           link: 'https://docnewzealand.shinyapps.io/seabird_ALAN/',
         },
         {
-          title: 'Generative aRt',
+          title: 'Science Is Art - Generative aRt Using A Particle Physics Simulator',
           description:
             'This app allows users to easily generate art using a particle physics simulation package and a variety of data visualisation options.',
           imageUrl:
