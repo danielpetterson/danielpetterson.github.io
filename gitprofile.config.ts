@@ -28,7 +28,7 @@ const CONFIG = {
           'danielpetterson/probGLSAlgorithm',
           'danielpetterson/generative-aRt-particles',
           'danielpetterson/DownQuiltDesigner',
-          // 'danielpetterson/Seabird_Light_Overlap',
+          'danielpetterson/seabird-light-overlap',
         ], // List of repository names to display. example: ['gitname/my-project1', 'gitname/my-project2']
       },
     },
@@ -97,6 +97,7 @@ const CONFIG = {
     'Shiny',
     'Power BI',
     'Tableau',
+    'Simulation'
   ],
   experiences: [
     // {
