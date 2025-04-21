@@ -66,7 +66,7 @@ const CONFIG = {
     mastodon: '',
     researchGate: '',
     facebook: '',
-    instagram: 'korovanapole',
+    instagram: '',
     reddit: '',
     threads: '',
     youtube: '',
